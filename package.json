@@ -1,0 +1,10 @@
+{
+  "name": "svg-react",
+  "version": "1.0.0",
+  "description": "Toying around with React, SVG and maybe Redux for UI state.",
+  "main": "index.js",
+  "repository": "git@github.com:eshinn/svg-react.git",
+  "author": "Eric Shinn <eric.shinn@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
