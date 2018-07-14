@@ -6,5 +6,10 @@
   "repository": "git@github.com:eshinn/svg-react.git",
   "author": "Eric Shinn <eric.shinn@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
 }
